@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Tel: link & obfuscate
-Plugin URI: http://grandadevans.com/resources/wordpress-plugin-to-detect-link-and-obfuscate-telephone-numbers/
+Plugin URI: http://grandadevans.com/resources/wordpress-plugin-to-link-and-obfuscate-telephone-numbers/
 Description: Link to telephone numbers if the user is on a smartphone or leave plain text if not and then obfuscate the text/link
 Version: 0.1
 Author: Grandadevans
